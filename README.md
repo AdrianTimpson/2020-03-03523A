@@ -7,3 +7,6 @@ The folder *sherd residues* contains the table *lipid residue summary.csv* which
 
 ### Model timeseries variables
 The folder *model timeseries variables* contains five .csv files, each comprising timeseries data for four study regions, 'British Isles', 'Baltic region', 'Rhine Danube axis' and 'Mediterranean Europe'. Note, 'midday insolation.csv' varies between region but is assumed constant through time.
+
+### Radiocarbon dates
+The folder *radiocarbon dates* contain four .csv files, each containing a summary of the number of radiocarbon dates and their locations, for each of the four study regions, 'British Isles', 'Baltic region', 'Rhine Danube axis' and 'Mediterranean Europe'.
