@@ -13,3 +13,6 @@ The folder *radiocarbon dates* contains four .csv files, each containing a summa
 
 ### KML
 The folder *KML* contains seven .kml files providing the data locations. LP sites.kml and nonLP sites.kml specify the locations of aDNA and can be viewed in conunction withpolygons.model.6.kml to see how the aDNA data were separated into useful polygons. The file sites.sherds.kml specifies the locations of all pot sherd data, and can be viewed in conjunction with polygons.milk.11.kml to see how these data were geographically separated into polygons. Good spatial overlap between data types (aDNA, faunal, radiocarbon, milk sherds) was only achieved for four of the polyons in polygons.model.6.kml: 'British Isles', 'Baltic region', 'Rhine Danube axis' and 'Mediterranean Europe'.
+
+### R code
+In progress
