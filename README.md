@@ -9,4 +9,7 @@ The folder *sherd residues* contains the table *lipid residue summary.csv* which
 The folder *model timeseries variables* contains five .csv files, each comprising timeseries data for four study regions, 'British Isles', 'Baltic region', 'Rhine Danube axis' and 'Mediterranean Europe'. Note, 'midday insolation.csv' varies between region but is assumed constant through time.
 
 ### Radiocarbon dates
-The folder *radiocarbon dates* contain four .csv files, each containing a summary of the number of radiocarbon dates and their locations, for each of the four study regions, 'British Isles', 'Baltic region', 'Rhine Danube axis' and 'Mediterranean Europe'.
+The folder *radiocarbon dates* contains four .csv files, each containing a summary of the number of radiocarbon dates and their locations, for each of the four study regions, 'British Isles', 'Baltic region', 'Rhine Danube axis' and 'Mediterranean Europe'.
+
+### KML
+The folder *KML* contains seven .kml files providing the data locations. LP sites.kml and nonLP sites.kml specify the locations of aDNA and can be viewed in conunction withpolygons.model.6.kml to see how the aDNA data were separated into useful polygons. The file sites.sherds.kml specifies the locations of all pot sherd data, and can be viewed in conjunction with polygons.milk.11.kml to see how these data were geographically separated into polygons. Good spatial overlap between data types (aDNA, faunal, radiocarbon, milk sherds) was only achieved for four of the polyons in polygons.model.6.kml: 'British Isles', 'Baltic region', 'Rhine Danube axis' and 'Mediterranean Europe'.
